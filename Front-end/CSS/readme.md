@@ -1,21 +1,21 @@
-# Front-end questions - CSS
+# Frontend questions  CSS
 
 ### Cascade
 * What does CSS stand for?
 * Why "Cascading"?
 * What is the rule of setting which style to apply?
 * What's difference between class and ID in css?
-* From list - which is most important, and which least?
-- id;
-- class;
-- inline css;
-- tags;
-- tags hierarchy;
+* From list  which is most important, and which least?
+ id;
+ class;
+ inline css;
+ tags;
+ tags hierarchy;
 
 ### Resetting and global css
 * What is resetting css? 
 * Did / where did you use it?
-* What does boxing-size do?
+* What does boxingsize do?
 * What styles you could / should apply for all elements?
 * Do you know examples of browser specific styling?
 
@@ -25,10 +25,10 @@
 * How would you center it in both directions?
 * When does position:absolute apply? 
 * Explain difference between position:
-- static;
-- relative;
-- absolute;
-- fixed;
+ static;
+ relative;
+ absolute;
+ fixed;
 
 
 ### FOUC
@@ -40,7 +40,7 @@
 * What is transition?
 * How can you use transition?
 * What are keyframes in CSS? how do you use it?
-* What are css animation - how do You use them?
+* What are css animation  how do You use them?
 
 ### Flexbox
 * What is flexbox?
@@ -67,16 +67,16 @@
 
 ### Misc
 * Can you use icons in css?
-* What does font-family do?
+* What does fontfamily do?
 * How can you break words in css?
 * What does ellipsis do? 
 * Explain different units:
-- px;
-- %;
-- vw;
-- vh;
-- em;
-- rem;
+ px;
+ %;
+ vw;
+ vh;
+ em;
+ rem;
 * What ways to creat column grid do you know, which do you prefer?
 * What is material design?
 * What calc is used for?
@@ -87,4 +87,4 @@
 * What is the difference between padding and margin, what are those dependant on?
 
 ### Frameworks
-* What front-end frameworks do you know?
+* What frontend frameworks do you know?
