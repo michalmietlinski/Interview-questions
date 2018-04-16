@@ -30,7 +30,6 @@
  absolute;
  fixed;
 
-
 ### FOUC
 * What is FOUC?
 * How do you deal with fouc?
@@ -67,7 +66,7 @@
 
 ### Misc
 * Can you use icons in css?
-* What does fontfamily do?
+* What does font-family do?
 * How can you break words in css?
 * What does ellipsis do? 
 * Explain different units:
@@ -88,3 +87,5 @@
 
 ### Frameworks
 * What frontend frameworks do you know?
+* What can you use bootstrap for?
+* Do you have any experience with bootstap / Foundation - what are pros and cons of those frameworks.
