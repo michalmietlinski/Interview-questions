@@ -15,11 +15,17 @@
 ### SEO
 * What improvement for SEO have you used?
 * What is rel="nofollow"?
+* What are the rules of using H tags efficiently
 
 ### WCAG
 * What is WCAG?
 * Do you know any rules of WCAG standard?
 * What devices should you consider preparing website with WCAG?
+* Why is it important to use styles on 'focus'?
+* How should links be provided?
+* What are the rules for creating forms easy for people using for example screen readers?
+* What is ARIA?
+* What are skip links?
 
 ### Page optimization
 * What are ways that you have used for reducing load time?
