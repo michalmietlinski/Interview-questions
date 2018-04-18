@@ -51,4 +51,8 @@
 * What is object in JS?
 * What can you attach to JS object?
 * What is the difference between object programming and functional programming?
+* What is a setter?
+* What is a getter?
+* What is a hybrid in object programming?
+
 

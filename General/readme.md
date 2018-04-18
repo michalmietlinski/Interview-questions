@@ -1,5 +1,12 @@
 # General questions
 
+### Personal tools
+
+* What editors do you prefer?
+* What is your setup of choice? Why?
+* Do you code for yourself? What do you use?
+
+
 ### Environment naming
 * What is dev-ops?
 * What is cloud?
