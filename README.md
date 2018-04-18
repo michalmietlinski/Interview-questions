@@ -12,13 +12,15 @@ Collection of interview and test questions from different languages and aspects 
     5. Frameworks
     6. Tools
 3. Node.js
+4. .NET
 
 ## Suggested:
 1. Tests / QA
 2. Dev-ops
 3. PHP
-4. .NET
-
+4. Databases
+5. Scrum / Waterfall
+6. Terms, tools, nomenclature
 
 
 ## Inspired by:
