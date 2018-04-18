@@ -1,6 +1,6 @@
 # General questions
 
-### Simple questions
+### Completely General questions
 
 * How do you expand your knowledge?
 * On what operating systems have you worked?
@@ -16,6 +16,11 @@
 * What are the areas you feel best at?
 * What are the areas you feel worst at?
 * What are the areas you wish to improve?
+* What is authorization and what authentication?
+* Tell me about pros / cons of writing distributed systems
+* How did lifecycle software development look like in previous work?
+* Tell me about advantages which IoC gives you?
+* How to share the code between projects?
 
 ### Issue trackers
 
@@ -52,6 +57,9 @@
 * What is UAT?
 * What does TDD stand for?
 * How do you approach TDD?
+* For what unit tests is used?
+* Which libraries you use for mocking in unit tests?
+* For what integration tests is used?
 
 ### Data formats
 
@@ -92,4 +100,7 @@
 * What are regular expressions?
 * What do you use regular expressions for?
 * Where can you use regular expressions?
-* 
+
+### Environment
+
+* Do you know for what is Docker used for?
