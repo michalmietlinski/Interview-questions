@@ -39,3 +39,19 @@ https://www.ebsco.com/blog/article/five-best-practices-for-web-accessibility
 https://en.wikipedia.org/wiki/Regular_expression
 https://regexr.com
 https://regex101.com
+
+
+## Version control
+
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+## JS
+
+### Closures
+https://www.w3schools.com/js/js_function_closures.asp
+http://javascriptissexy.com/understand-javascript-closures-with-ease/
+
+### Destructuring
+http://exploringjs.com/es6/ch_destructuring.html
+
+

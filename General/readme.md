@@ -3,6 +3,7 @@
 ### Simple questions
 
 * How do you expand your knowledge?
+* On what operating systems have you worked?
 * What is last project you have been working on?
 * What is worst project you have been working on and why?
 * What is the worst fiasco you had on the project? What went wrong?
@@ -15,6 +16,24 @@
 * What are the areas you feel best at?
 * What are the areas you feel worst at?
 * What are the areas you wish to improve?
+
+### Issue trackers
+
+* In which tracking software you were working so far?
+* Which features have you used most often so far?
+
+### Version control
+
+* Which version control systems have you used before?
+* What is a trunk?
+* What is the difference between merge and rebase?
+* What is the difference between fetch and pull?
+* What is force pushing?
+* Do you use any naming conventions for commits?
+* What is cherry picking?
+* How do you solve conflicts?
+* What does "stash" do? Why can / should you use it?
+* What does "revert" do?
 
 ### Personal tools
 
@@ -67,3 +86,10 @@
 * What is Unicode?
 * Why encoding matters?
 * When encoding can generate bugs?
+
+### Regular expressions
+
+* What are regular expressions?
+* What do you use regular expressions for?
+* Where can you use regular expressions?
+* 
