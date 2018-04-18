@@ -24,8 +24,15 @@
 * What are promises?
 * What is Async, await?
 * What are callbacks?
+* What is "then" ?
+* how can you queue async calls?
 
 ### Garbage collection
+
+* What is garbage collection?
+* What are the rules of JS garbage collection?
+* In what circumstances garbage collection will not work?
+
 
 ### ES5
 
@@ -41,3 +48,7 @@
 * What shoul Class contain?
 
 ### Object programming
+* What is object in JS?
+* What can you attach to JS object?
+* What is the difference between object programming and functional programming?
+

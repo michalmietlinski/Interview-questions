@@ -13,11 +13,13 @@
 * Can you load script asynchroniously in html, how?
 
 ### SEO
+
 * What improvement for SEO have you used?
 * What is rel="nofollow"?
 * What are the rules of using H tags efficiently
 
 ### WCAG
+
 * What is WCAG?
 * Do you know any rules of WCAG standard?
 * What devices should you consider preparing website with WCAG?
@@ -28,6 +30,7 @@
 * What are skip links?
 
 ### Page optimization
+
 * What are ways that you have used for reducing load time?
 * What are sprites?
 * How can you minimize number of http requests?
