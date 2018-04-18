@@ -11,6 +11,7 @@
 * Cookie vs localstorage vs sessionStorage?
 * What is jsonP?
 * Can you load script asynchroniously in html, how?
+* Why would you use tables in html?
 
 ### SEO
 

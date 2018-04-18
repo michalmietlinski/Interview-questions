@@ -1,23 +1,41 @@
 # General questions
 
+### Simple questions
+
+* How do you expand your knowledge?
+* What is last project you have been working on?
+* What is worst project you have been working on and why?
+* What is the worst fiasco you had on the project? What went wrong?
+* What project tought you the most?
+* Which team you have worked with was the best and why?
+* What are your favourite team building activities?
+* Which job you remember as the best - why?
+* Have you participated in any open source projects? Which one?
+* What coding behaviours annoy you the most?
+* What are the areas you feel best at?
+* What are the areas you feel worst at?
+* What are the areas you wish to improve?
+
 ### Personal tools
 
 * What editors do you prefer?
 * What is your setup of choice? Why?
 * Do you code for yourself? What do you use?
 
-
 ### Environment naming
+
 * What is dev-ops?
 * What is cloud?
 * What is CDN?
 
 ### Test naming
-* What is UAT?
-* What does TTD stand for?
 
+* What is UAT?
+* What does TDD stand for?
+* How do you approach TDD?
 
 ### Data formats
+
 * What data formats do you know?
 * What databases have you used? Which do you prefer and why?
 * What is XML?
@@ -26,3 +44,26 @@
 * What is JSON?
 * What is CSV?
 * What's the difference between XML and JSON ?
+
+### Naming convention
+
+* What naming conventions do you know?
+* What is camelCase?
+* What is kebabCase?
+* What is snake case?
+* What is Capitalize convention?
+
+### Clean code
+
+* What rules / recommendations for clean coding do you know?
+* Is it good to use comments? Why? When?
+* What tools do you use for better code quality?
+* Do you know any formatting standards?
+
+### Encoding
+
+* What is UTF-8?
+* What is Ascii?
+* What is Unicode?
+* Why encoding matters?
+* When encoding can generate bugs?

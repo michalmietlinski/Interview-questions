@@ -19,6 +19,11 @@
 * What styles you could / should apply for all elements?
 * Do you know examples of browser specific styling?
 
+### Cross browser optimization
+* Have you ever encountered browser specific bugs? Like what?
+* How do you verify your work on different browsers?
+* Which tools do you use for browser emulation?
+
 ### Positioning
 * How would you center element horizontally?
 * How would you center element vertically?
@@ -53,6 +58,7 @@
 * Can you cover one media query rule with another? In what way?
 * What is responsive web design, what styles and elements you use in css to achieve it?
 * Do you know any way to keep ratio of a container for different widths of a window?
+* What is "mobile first"? How do you implement it?
 
 ### Pseudo elements
 * What does ":before" do?
