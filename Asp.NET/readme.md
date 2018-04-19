@@ -7,7 +7,7 @@
 * What is boxing and unboxing?
 * Differences between ref and out
 * Tell me about "sealed" and "partial"
-* "Checked" "Unchecked" for what is used, which is set by default?
+* "Checked", "Unchecked" for what is used, which is set by default?
 * What are immutable objects?
 * Polymorphism, Hermertherization, Inheritance - tell me about it
 
@@ -19,7 +19,7 @@
 ### Multi-threading
 
 * What are the thread synchronization mechanisms?
-* how can you queue async calls?
+* How can you queue async calls?
 * What is the difference between Thread and Task?
 * What is the critical section?
 * What are the ways to set up a critical section?
@@ -52,6 +52,8 @@
 * Explain differences between inner join, left join, right join etc
 * Explain differences between union vs union all / except / intersect
 * What is the difference between Single() vs First()
+* Explain difference between optimistic and pessimistic concurrency? Explain shortly how both works.
+* Explain difference between Add() vs Attach() in Entity Framework
 
 ### Common not directly programming
 
@@ -65,8 +67,7 @@
 * What a,b,c means in WCF?
 * What binding types are used in WCF?
 * How you can connect with server via WCF?
-* How you would implement your own basic DI contener, what methods it will have inside
+* How you would implement your own basic DI container, what methods it will have inside
 * What data structure would you create to make sure that a class that has 15 variables and 3 variables is uniquely identified will never be duplicated when added to a collection?
 * If you had two objects of the same class that are identified by 3 variables (they have more of them) then how would you compare that both are the same object without using multiple if statements?
-
-
+* Tell me about Docker, for what it's used, cons vs pros
