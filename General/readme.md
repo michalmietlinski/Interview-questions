@@ -22,6 +22,7 @@
 * Tell me about advantages which IoC gives you?
 * How to share the code between projects?
 * What does "LTS version" mean?
+* What is technical debt?
 
 ### Issue trackers
 
