@@ -1,0 +1,7 @@
+﻿# QA questions
+
+### Simple principles
+
+* 
+*
+
