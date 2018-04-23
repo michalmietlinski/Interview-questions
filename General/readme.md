@@ -105,3 +105,10 @@
 ### Environment
 
 * Do you know for what is Docker used for?
+
+### QA
+
+* What is bug severity and what is priority?
+* What is Pesticide Paradox?
+* Please name some examples of non-functional testing
+* Describe the life cycle of a bug
