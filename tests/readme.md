@@ -9,7 +9,7 @@
 
 ### Projects
 
-* On what projects have you worked in?
+* On what projects have you worked on?
 * What was your role in those projects?
 * In what frameworks/methodologies have you worked?
 * Discuss product life cycle.
@@ -18,6 +18,6 @@
 
 * List what types of tests you know.
 * Explain model V.
-* Discuss black and/or white box testing.
+* Discuss black and white box testing.
 
 
