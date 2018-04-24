@@ -1,10 +1,14 @@
 # Front-end questions - HTML
 
 * What means semantic HTML?
+* What means that class name is semantic?
 * What semantic tags do you know?
 * What is DOM?
+* What are the data-* attributes for?
+* Describe the difference between block and inline tags.
 * How do you change direction of text for some languages?
 * Where in the document should you put js and css links?
+* Can you show and justify an exception to the rule above?
 * What are general rules of HTML prepared for emails?
 * Can you use media files using html only?
 * What is alt tag used for?
@@ -12,6 +16,9 @@
 * What is jsonP?
 * Can you load script asynchroniously in html, how?
 * Why would you use tables in html?
+* Describe the difference between <script/> <script async/> <script defer=""/>
+* What if FOUC?
+* How to prevent site from FOUC? 
 
 ### SEO
 
