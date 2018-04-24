@@ -14,10 +14,16 @@
 * What date functions do you know?
 * What does getTimezoneOffset do? Why do you need getTimezoneOffset()? 
 
+### Social media
+
+* How did you use connection to Social media sites?
+* Can you explain any API you connected to, how and why?
+
 ### Closures
 
 * What are closures?
 * What can you use closures for?
+* When closure won't work?
 
 ### Async
 
@@ -32,7 +38,6 @@
 * What is garbage collection?
 * What are the rules of JS garbage collection?
 * In what circumstances garbage collection will not work?
-
 
 ### ES5
 

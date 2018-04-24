@@ -12,6 +12,13 @@
 * What is jsonP?
 * Can you load script asynchroniously in html, how?
 * Why would you use tables in html?
+* What is Open Graph?
+* When do you use Open Graph and how?
+
+### Social media
+
+* Have you ever connected your project with social media sites?
+* Do you know any social media meta tags?
 
 ### SEO
 

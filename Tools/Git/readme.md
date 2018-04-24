@@ -19,3 +19,4 @@
 * What is main difference in approach between git and for example SVN or mercurial?
 * Can you connect your workspace with git, how?
 * Do you have any good practices when working with version control?
+* How can you make connection with github without repetively providing username and password?
