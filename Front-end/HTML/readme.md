@@ -19,6 +19,13 @@
 * Describe the difference between <script/> <script async/> <script defer=""/>
 * What if FOUC?
 * How to prevent site from FOUC? 
+* What is Open Graph?
+* When do you use Open Graph and how?
+
+### Social media
+
+* Have you ever connected your project with social media sites?
+* Do you know any social media meta tags?
 
 ### SEO
 

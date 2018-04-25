@@ -5,7 +5,21 @@
 https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c
 http://blog.kedziorski.pl/2010/04/10/clean-code-w-pigulce-1/
 
-## Sass
+## General Front-end
+
+https://frontendmasters.com/books/front-end-handbook/2018/
+
+### Social media
+
+https://fsgeek.pl/post/open-graph-dla-bloggerow/
+
+### CSS
+
+https://meowni.ca/posts/float-layout/
+https://css-tricks.com
+https://www.w3schools.com
+
+### Sass
 
 https://sass-lang.com
 https://sass-lang.com/documentation/file.SASS_REFERENCE.html
@@ -33,8 +47,6 @@ https://achecker.ca/checker/index.php
 https://www.invisionapp.com/blog/guide-web-content-accessibility/
 https://www.ebsco.com/blog/article/five-best-practices-for-web-accessibility
 
-
-
 ## Regular expressions
 https://en.wikipedia.org/wiki/Regular_expression
 https://regexr.com
@@ -44,14 +56,21 @@ https://regex101.com
 ## Version control
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+https://git-scm.com/doc
 
 ## JS
 
+http://poradnik.drogimex.pl/2018/04/12/problemy-przy-zamianie-string-na-number-w-javascript/
+
 ### Closures
+
 https://www.w3schools.com/js/js_function_closures.asp
 http://javascriptissexy.com/understand-javascript-closures-with-ease/
 
 ### Destructuring
+
 http://exploringjs.com/es6/ch_destructuring.html
 
+## Frameworks
 
+https://typeofweb.com/2018/04/06/react-redux-kurs-wprowadzenie-i-podstawy/
