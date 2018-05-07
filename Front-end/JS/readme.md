@@ -13,6 +13,7 @@
 * What string functions do you know?
 * What date functions do you know?
 * What does getTimezoneOffset do? Why do you need getTimezoneOffset()? 
+* What is a namespace
 
 ### Social media
 
@@ -51,6 +52,7 @@
 * What is difference between map and weakmap? What can you use it for?
 * What is new in ES6?
 * What shoul Class contain?
+* What are the arrow functions?
 
 ### Object programming
 
@@ -61,3 +63,11 @@
 * What is a getter?
 * What is a hybrid in object programming?
 * What is SOLID? What does it stand for?
+
+### Other
+
+* Using constant value x prove that x-x != 0
+* What is the result of such operation <code>"Was it a car or a cat I saw?".split('').reverse().join('');</code> How do you call such gramatic figure?
+* What means IIFE? Can you write down 2 examples of IIFE?
+* What it is and how works prototypal inheritance?
+* How to extend native prototype (for example how to add to Array function that counts average value of integers inside it)
