@@ -74,3 +74,20 @@ http://exploringjs.com/es6/ch_destructuring.html
 ## Frameworks
 
 https://typeofweb.com/2018/04/06/react-redux-kurs-wprowadzenie-i-podstawy/
+
+## Programming
+
+https://en.wikipedia.org/wiki/Declarative_programming
+
+
+## Test
+
+https://github.com/mawrkus/js-unit-testing-guide
+
+## IT LAW
+
+https://www.linkedin.com/pulse/nightmare-letter-subject-access-request-under-gdpr-karbaliotis/
+
+## General
+
+https://fsgeek.pl/

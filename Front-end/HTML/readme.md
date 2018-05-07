@@ -14,6 +14,8 @@
 * Why would you use tables in html?
 * What is Open Graph?
 * When do you use Open Graph and how?
+* [Advanced] What does 'pattern' do?
+* [Advanced] What does 'inputmode' do?
 
 ### Social media
 
