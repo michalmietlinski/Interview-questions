@@ -40,6 +40,14 @@
 * What are the rules of JS garbage collection?
 * In what circumstances garbage collection will not work?
 
+### Tables
+
+* What is the difference between map, filter and reduce?
+* How can you iterate elements of table?
+* When it's better to use an array rather than an object?
+* What array functions you know?
+* Can you expand functions availlable for Arrays? How? (Prototype)
+
 ### ES5
 
 * What is the difference between var, let and const?
@@ -61,7 +69,7 @@
 * What is the difference between object programming and functional programming?
 * What is a setter?
 * What is a getter?
-* What is a hybrid in object programming?
+* What is a hybrid in object programming? (mix of object and functional programming)
 * What is SOLID? What does it stand for?
 
 ### Other
