@@ -22,6 +22,11 @@
 * Tell me about advantages which IoC gives you?
 * How to share the code between projects?
 * What does "LTS version" mean?
+* Which language would be your main choice and why?
+* What is main benefit of your chosen language?
+* Did you participate in any open source projects? What did you do? What did you learn?
+* What pushed you towards becoming programmer?
+* What are best qualities of programmer in your opinion?
 
 ### Design patterns
 
@@ -52,6 +57,17 @@
 * How do you solve conflicts?
 * What does "stash" do? Why can / should you use it?
 * What does "revert" do?
+
+
+### Protocols 
+
+* What is difference between REST API and SOAP?
+* Explain SOAP?
+* What does HTTP stand for?
+* What is the difference between HTTP and HTTPS?
+* What is TLS?
+* What is the difference between SSL and TLS?
+* What are POP3, IMAP used for?
 
 ### Personal tools
 
