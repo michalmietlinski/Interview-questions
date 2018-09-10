@@ -23,6 +23,18 @@
 * How to share the code between projects?
 * What does "LTS version" mean?
 
+### Design patterns
+
+* What are design patterns?
+* What are rules for creating design pattern? (Advanced)
+* What is singleton?
+* What do you use it for?
+* What is factory?
+* What is difference between factory and abstract factory?
+* What is observer?
+* What is difference between observer and publish/subscribe pattern?
+* Which design patterns do you use most often?
+
 ### Issue trackers
 
 * In which tracking software you were working so far?

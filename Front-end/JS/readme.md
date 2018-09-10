@@ -14,6 +14,12 @@
 * What date functions do you know?
 * What does getTimezoneOffset do? Why do you need getTimezoneOffset()? 
 * What is a namespace
+* Explain JS Event loop
+* Explain event bubbling
+* Explain event propagation?
+* What are: Stack, Heap and Queue?
+* When will setTimeout({},0), Promise, and return resolve? In what order and why?
+* What is context in JS?
 
 ### Social media
 
@@ -25,6 +31,8 @@
 * What are closures?
 * What can you use closures for?
 * When closure won't work?
+* Explain function currying
+* What would you use currying for?
 
 ### Async
 
@@ -62,10 +70,22 @@
 * What shoul Class contain?
 * What are the arrow functions?
 
+### Prototypes
+
+* What are prototypes?
+* Where do you use prototypes?
+* What are general rules for good use of prototypes in JS?
+* What does __proto_ do?
+
 ### Object programming
 
 * What is object in JS?
+* What methods for objects do you know?
+* What does object.assign() do?
+* How can you initiate object in JS?
 * What can you attach to JS object?
+* How can you iterate by objects?
+* How can you iterate within object properties?
 * What is the difference between object programming and functional programming?
 * What is a setter?
 * What is a getter?
