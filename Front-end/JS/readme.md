@@ -20,6 +20,7 @@
 * What are: Stack, Heap and Queue?
 * When will setTimeout({},0), Promise, and return resolve? In what order and why?
 * What is context in JS?
+* what will be result of 4>3>2 ?? 
 
 ### Social media
 
@@ -99,3 +100,4 @@
 * What means IIFE? Can you write down 2 examples of IIFE?
 * What it is and how works prototypal inheritance?
 * How to extend native prototype (for example how to add to Array function that counts average value of integers inside it)
+* What will ("b" + "a" + + "a" + "a").toLowerCase() return?
