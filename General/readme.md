@@ -39,25 +39,12 @@
 * What is observer?
 * What is difference between observer and publish/subscribe pattern?
 * Which design patterns do you use most often?
+* Why would you use decorator?
 
 ### Issue trackers
 
 * In which tracking software you were working so far?
 * Which features have you used most often so far?
-
-### Version control
-
-* Which version control systems have you used before?
-* What is a trunk?
-* What is the difference between merge and rebase?
-* What is the difference between fetch and pull?
-* What is force pushing?
-* Do you use any naming conventions for commits?
-* What is cherry picking?
-* How do you solve conflicts?
-* What does "stash" do? Why can / should you use it?
-* What does "revert" do?
-
 
 ### Protocols 
 
