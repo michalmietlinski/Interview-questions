@@ -12,7 +12,7 @@
 * What are general rules of HTML prepared for emails?
 * Can you use media files using html only?
 * What is alt tag used for?
-* Cookie vs localstorage vs sessionStorage?
+* Cookie vs localstorage vs sessionStorage, to which you get access, other pages may access them?
 * What is jsonP?
 * Can you load script asynchroniously in html, how?
 * Why would you use tables in html?

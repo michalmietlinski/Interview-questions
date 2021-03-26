@@ -2,11 +2,13 @@
 
 ### Simple principles
 
+* What is javascript?
 * What is the difference between "==" and "==="?
 * What scopes of variables are there?
 * How can you iterate elements?
 * How can you itarate over elements inside object?
 * What does "this" do?
+* When can you get NaN?
 * What are event listeners?
 * What is a prototype?
 * What array functions do you know?
@@ -19,6 +21,7 @@
 * Explain event propagation?
 * What are: Stack, Heap and Queue?
 * When will setTimeout({},0), Promise, and return resolve? In what order and why?
+* What types of time functions do you know, what are the differences between them?
 * What is context in JS?
 * what will be result of 4>3>2 ?? 
 
@@ -101,3 +104,4 @@
 * What it is and how works prototypal inheritance?
 * How to extend native prototype (for example how to add to Array function that counts average value of integers inside it)
 * What will ("b" + "a" + + "a" + "a").toLowerCase() return?
+* What are memory leaks, how / why / when you get them?
